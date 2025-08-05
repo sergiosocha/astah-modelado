@@ -1,1 +1,4 @@
-# astah-modelado
+# Astah-modelado
+
+
+Sergio Socha , Arquitectura empresarial 
